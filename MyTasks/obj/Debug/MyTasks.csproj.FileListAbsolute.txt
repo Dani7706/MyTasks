@@ -1,0 +1,9 @@
+C:\Users\dell\Documents\Project\MyTasks\MyTasks\bin\Debug\MyTasks.exe.config
+C:\Users\dell\Documents\Project\MyTasks\MyTasks\bin\Debug\MyTasks.exe
+C:\Users\dell\Documents\Project\MyTasks\MyTasks\bin\Debug\MyTasks.pdb
+C:\Users\dell\Documents\Project\MyTasks\MyTasks\obj\Debug\MyTasks.csprojAssemblyReference.cache
+C:\Users\dell\Documents\Project\MyTasks\MyTasks\obj\Debug\MyTasks.MyTasks.resources
+C:\Users\dell\Documents\Project\MyTasks\MyTasks\obj\Debug\MyTasks.Properties.Resources.resources
+C:\Users\dell\Documents\Project\MyTasks\MyTasks\obj\Debug\MyTasks.csproj.GenerateResource.cache
+C:\Users\dell\Documents\Project\MyTasks\MyTasks\obj\Debug\MyTasks.exe
+C:\Users\dell\Documents\Project\MyTasks\MyTasks\obj\Debug\MyTasks.pdb
